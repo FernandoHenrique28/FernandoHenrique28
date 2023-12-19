@@ -7,8 +7,6 @@
 [![Portifólio PowerBi](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://sites.google.com/view/portfolio-fernando-henrique/in%C3%ADcio)
 
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHenrique28&show_icons=true&theme=dracula)
-
 
 ## Tecnologias que eu utilizo no meu dia a dia.
 
